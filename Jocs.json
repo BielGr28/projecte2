@@ -26,7 +26,7 @@
     {
         "id": 5,
         "titulo": "FFVII Crisis Core",
-        "srcimg": "/img/ffvii.jpg",
+        "srcimg": "https://github.com/BielGr28/projecte2/blob/main/img/ffvii.jpg?raw=true",
         "alt":"Imatge ffvii crisis core" 
     },
     {

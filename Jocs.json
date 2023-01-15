@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "titulo": "Mount & Blade II: Bannerlord",
+        "srcimg": "/img/bannerlord.jpg",
+        "alt":"imatge Banner Lord"    
+    },
+    {
+        "id": 2,
+        "titulo": "SpiderMan Miles Morales",
+        "srcimg": "/img/spiderman.jpg",
+        "alt":"imatge SpiderMan Miles Morales" 
+    },
+    {
+        "id": 3,
+        "titulo": "Need For Speed Unbound",
+        "srcimg": "/img/cachau.jpg",
+        "alt":"Imatge Need For Speed Unbound" 
+    },
+    {
+        "id": 4,
+        "titulo": "Ciites Skyline",
+        "srcimg": "/img/citiesskyline.jpg",
+        "alt":"imatge cities Skyline" 
+    },
+    {
+        "id": 5,
+        "titulo": "FFVII Crisis Core",
+        "srcimg": "/img/ffvii.jpg",
+        "alt":"Imatge ffvii crisis core" 
+    },
+    {
+        "id": 6,
+        "titulo": "Frozen Flame",
+        "srcimg": "/img/frozenflame.jpg",
+        "alt":"imatge Frozen Flame" 
+    },
+    {
+        "id": 7,
+        "titulo": "Ixion",
+        "srcimg": "/img/ixion.jpg",
+        "alt":"imatge Ixion" 
+    },
+    {
+        "id": 8,
+        "titulo": "Potion Craft",
+        "srcimg": "/img/potion-craft-1foyx.jpg",
+        "alt":"Imatge Potion Craft" 
+    },
+    {
+        "id": 9,
+        "titulo": "Warhammer 40000: Darktide",
+        "srcimg": "/img/warhammer.jpg",
+        "alt":"Imatge Warhammer 40000: Darktide" 
+    }
+]
